@@ -43,3 +43,19 @@ streamlit run app.py
 This project uses simulated data, not live company data. The inventory module demonstrates transparent baseline calculations. Its simulated current stock is set to ten days of average demand; replace this assumption with actual on-hand stock and supplier lead-time data for a real deployment.
 
 The model is a learning baseline, not a production replenishment system. More advanced future work could include rolling-origin backtesting, Croston/SBA for intermittent demand, promotion and holiday features, service-level tuning, and model monitoring.
+## 📸 Project Screenshots
+
+### 1. Main Dashboard
+![Dashboard](images/dashboard.png)
+
+### 2. Sales Trend Analysis
+![Sales Trend](images/sales_trend.png)
+
+### 3. Monthly Sales Analysis
+![Monthly Sales](images/monthly_sales.png)
+
+### 4. Item-wise Sales Analysis
+![Item Sales](images/item_sales.png)
+
+### 5. Sales Forecast Comparison
+![Forecast Comparison](images/forecast_comparison.png)
