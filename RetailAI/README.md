@@ -2,6 +2,12 @@
 
 A beginner-friendly student portfolio project that creates synthetic retail sales data, explores trends, trains a Random Forest forecasting model, and produces basic inventory reorder recommendations.
 
+# 📦 Retail Sales Forecasting & Inventory Optimization System
+
+🚀 **Live Demo:** [Click Here to View Dashboard](https://retail-sales-forecasting-megha.streamlit.app/)
+
+💻 **GitHub Repository:** [View Source Code](https://github.com/megha-cse/Retail-Sales-Forecasting-Inventory-Optimization)
+
 ## Features
 - Synthetic daily sales data for two stores and eight products
 - Data cleaning and exploratory charts
